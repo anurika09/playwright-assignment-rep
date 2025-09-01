@@ -1,0 +1,623 @@
+[
+    {
+        "id": "Table revealed",
+        "name": "You've successfully accessed the product data table.",
+        "category": "Iden Challenge",
+        "details": "Candidate",
+        "shade": "Instructions",
+        "composition": "Submit Solution",
+        "updated": "Updated"
+    },
+    {
+        "id": "Iden Challenge",
+        "name": "Candidate",
+        "category": "Instructions",
+        "details": "Submit Solution",
+        "shade": "anurikamoudgalya@gmail.com",
+        "composition": "Sign out",
+        "updated": "Updated"
+    },
+    {
+        "id": "Product Dashboard",
+        "name": "",
+        "category": "Assessment ID: 85a77a43-d95f-4d81-87d2-6d1d50b18ed7 • Layout: List",
+        "details": "",
+        "shade": "Product Inventory",
+        "composition": "Showing 20 of 1081 products",
+        "updated": "Updated"
+    },
+    {
+        "id": "Product Dashboard",
+        "name": "",
+        "category": "Assessment ID: 85a77a43-d95f-4d81-87d2-6d1d50b18ed7 • Layout: List",
+        "details": "",
+        "shade": "Product Inventory",
+        "composition": "Showing 20 of 1081 products",
+        "updated": "Updated"
+    },
+    {
+        "id": "Product Inventory",
+        "name": "Showing 20 of 1081 products",
+        "category": "Portable Books Ultra",
+        "details": "ID: 0",
+        "shade": "•",
+        "composition": "Books",
+        "updated": "Updated"
+    },
+    {
+        "id": "Product Inventory",
+        "name": "Showing 20 of 1081 products",
+        "category": "Portable Books Ultra",
+        "details": "ID: 0",
+        "shade": "•",
+        "composition": "Books",
+        "updated": "Updated"
+    },
+    {
+        "id": "Showing 20 of 1081 products",
+        "name": "Portable Books Ultra",
+        "category": "ID: 0",
+        "details": "•",
+        "shade": "Books",
+        "composition": "Details",
+        "updated": "Updated"
+    },
+    {
+        "id": "Showing 20 of 1081 products",
+        "name": "Portable Books Ultra",
+        "category": "ID: 0",
+        "details": "•",
+        "shade": "Books",
+        "composition": "Details",
+        "updated": "Updated"
+    },
+    {
+        "id": "Portable Books Ultra",
+        "name": "ID: 0",
+        "category": "•",
+        "details": "Books",
+        "shade": "Details",
+        "composition": "A ergonomic, lightweight books product. The Portable Books Ultra is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Portable Books Ultra",
+        "name": "ID: 0",
+        "category": "•",
+        "details": "Books",
+        "shade": "Details",
+        "composition": "A ergonomic, lightweight books product. The Portable Books Ultra is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A ergonomic, lightweight books product. The Portable Books Ultra is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Silver",
+        "shade": "Composition",
+        "composition": "Ceramic",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "15 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Advanced Garden Solution",
+        "name": "ID: 1",
+        "category": "•",
+        "details": "Garden",
+        "shade": "Details",
+        "composition": "A versatile, ergonomic garden product. The Advanced Garden Solution is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A versatile, ergonomic garden product. The Advanced Garden Solution is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Orange",
+        "shade": "Composition",
+        "composition": "Glass",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "29 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Budget Electronics Tool",
+        "name": "ID: 2",
+        "category": "•",
+        "details": "Electronics",
+        "shade": "Details",
+        "composition": "A eco-friendly, professional electronics product. The Budget Electronics Tool is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A eco-friendly, professional electronics product. The Budget Electronics Tool is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Purple",
+        "shade": "Composition",
+        "composition": "Aluminum",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "18 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Innovative Toys Bundle",
+        "name": "ID: 3",
+        "category": "•",
+        "details": "Toys",
+        "shade": "Details",
+        "composition": "A innovative, versatile toys product. The Innovative Toys Bundle is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A innovative, versatile toys product. The Innovative Toys Bundle is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "White",
+        "shade": "Composition",
+        "composition": "Leather",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "18 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Innovative Toys Ultra",
+        "name": "ID: 4",
+        "category": "•",
+        "details": "Toys",
+        "shade": "Details",
+        "composition": "A versatile, high-quality toys product. The Innovative Toys Ultra is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A versatile, high-quality toys product. The Innovative Toys Ultra is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Copper",
+        "shade": "Composition",
+        "composition": "Fabric",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "22 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Ultimate Clothing Tool",
+        "name": "ID: 5",
+        "category": "•",
+        "details": "Clothing",
+        "shade": "Details",
+        "composition": "A premium, efficient clothing product. The Ultimate Clothing Tool is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A premium, efficient clothing product. The Ultimate Clothing Tool is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Transparent",
+        "shade": "Composition",
+        "composition": "Steel",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "17 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Ultimate Health Kit",
+        "name": "ID: 6",
+        "category": "•",
+        "details": "Health",
+        "shade": "Details",
+        "composition": "A affordable, eco-friendly health product. The Ultimate Health Kit is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A affordable, eco-friendly health product. The Ultimate Health Kit is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Brown",
+        "shade": "Composition",
+        "composition": "Ceramic",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "8 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Professional Automotive Set",
+        "name": "ID: 7",
+        "category": "•",
+        "details": "Automotive",
+        "shade": "Details",
+        "composition": "A durable, lightweight automotive product. The Professional Automotive Set is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A durable, lightweight automotive product. The Professional Automotive Set is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Silver",
+        "shade": "Composition",
+        "composition": "Carbon Fiber",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "22 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Eco-friendly Clothing Series",
+        "name": "ID: 8",
+        "category": "•",
+        "details": "Clothing",
+        "shade": "Details",
+        "composition": "A versatile, stylish clothing product. The Eco-friendly Clothing Series is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A versatile, stylish clothing product. The Eco-friendly Clothing Series is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Brown",
+        "shade": "Composition",
+        "composition": "Carbon Fiber",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "3 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Compact Clothing Tool",
+        "name": "ID: 9",
+        "category": "•",
+        "details": "Clothing",
+        "shade": "Details",
+        "composition": "A lightweight, innovative clothing product. The Compact Clothing Tool is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A lightweight, innovative clothing product. The Compact Clothing Tool is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Transparent",
+        "shade": "Composition",
+        "composition": "Steel",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "4 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Innovative Automotive Set",
+        "name": "ID: 10",
+        "category": "•",
+        "details": "Automotive",
+        "shade": "Details",
+        "composition": "A eco-friendly, professional automotive product. The Innovative Automotive Set is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A eco-friendly, professional automotive product. The Innovative Automotive Set is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Brown",
+        "shade": "Composition",
+        "composition": "Glass",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "3 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Advanced Electronics Pro",
+        "name": "ID: 11",
+        "category": "•",
+        "details": "Electronics",
+        "shade": "Details",
+        "composition": "A powerful, innovative electronics product. The Advanced Electronics Pro is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A powerful, innovative electronics product. The Advanced Electronics Pro is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Gray",
+        "shade": "Composition",
+        "composition": "Leather",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "29 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Classic Books Solution",
+        "name": "ID: 12",
+        "category": "•",
+        "details": "Books",
+        "shade": "Details",
+        "composition": "A premium, versatile books product. The Classic Books Solution is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A premium, versatile books product. The Classic Books Solution is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Gray",
+        "shade": "Composition",
+        "composition": "Plastic",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "24 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Compact Books Bundle",
+        "name": "ID: 13",
+        "category": "•",
+        "details": "Books",
+        "shade": "Details",
+        "composition": "A efficient, premium books product. The Compact Books Bundle is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A efficient, premium books product. The Compact Books Bundle is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Purple",
+        "shade": "Composition",
+        "composition": "Aluminum",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "8 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Modern Toys Plus",
+        "name": "ID: 14",
+        "category": "•",
+        "details": "Toys",
+        "shade": "Details",
+        "composition": "A professional, powerful toys product. The Modern Toys Plus is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A professional, powerful toys product. The Modern Toys Plus is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Brown",
+        "shade": "Composition",
+        "composition": "Silicone",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "8 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Luxury Garden Max",
+        "name": "ID: 15",
+        "category": "•",
+        "details": "Garden",
+        "shade": "Details",
+        "composition": "A durable, affordable garden product. The Luxury Garden Max is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A durable, affordable garden product. The Luxury Garden Max is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Red",
+        "shade": "Composition",
+        "composition": "Silicone",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "18 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Smart Office Lite",
+        "name": "ID: 16",
+        "category": "•",
+        "details": "Office",
+        "shade": "Details",
+        "composition": "A efficient, ergonomic office product. The Smart Office Lite is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A efficient, ergonomic office product. The Smart Office Lite is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Pink",
+        "shade": "Composition",
+        "composition": "Steel",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "12 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Eco-friendly Health Max",
+        "name": "ID: 17",
+        "category": "•",
+        "details": "Health",
+        "shade": "Details",
+        "composition": "A efficient, high-quality health product. The Eco-friendly Health Max is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A efficient, high-quality health product. The Eco-friendly Health Max is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Transparent",
+        "shade": "Composition",
+        "composition": "Ceramic",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "30 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Luxury Garden Package",
+        "name": "ID: 18",
+        "category": "•",
+        "details": "Garden",
+        "shade": "Details",
+        "composition": "A durable, eco-friendly garden product. The Luxury Garden Package is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A durable, eco-friendly garden product. The Luxury Garden Package is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Copper",
+        "shade": "Composition",
+        "composition": "Plastic",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "about 17 hours ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    },
+    {
+        "id": "Compact Toys Series",
+        "name": "ID: 19",
+        "category": "•",
+        "details": "Toys",
+        "shade": "Details",
+        "composition": "A innovative, stylish toys product. The Compact Toys Series is designed for maximum performance and user satisfaction.",
+        "updated": "Updated"
+    },
+    {
+        "id": "Details",
+        "name": "A innovative, stylish toys product. The Compact Toys Series is designed for maximum performance and user satisfaction.",
+        "category": "Shade",
+        "details": "Blue",
+        "shade": "Composition",
+        "composition": "Wood",
+        "updated": "Updated"
+    },
+    {
+        "id": "Updated",
+        "name": "19 days ago",
+        "category": "",
+        "details": "",
+        "shade": "",
+        "composition": "",
+        "updated": "Updated"
+    }
+]
